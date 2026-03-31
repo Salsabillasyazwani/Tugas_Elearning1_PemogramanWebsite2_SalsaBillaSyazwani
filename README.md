@@ -55,3 +55,20 @@ Website ini memungkinkan pengguna untuk melihat menu snack, memesan produk, dan 
 ---
 
 ## Struktur Project
+Tugas_Elearning1/
+├─ app/
+├─ resources/
+│ ├─ views/
+│ │ ├─ layout/
+│ │ │ ├─ navbar.blade.php
+│ │ │ └─ footer.blade.php
+│ │ └─ landing.blade.php
+├─ public/
+│ ├─ assets/
+│ │ ├─ images/
+│ │ ├─ css/
+│ │ └─ js/
+├─ routes/
+│ └─ web.php
+├─ README.md
+└─ ...
