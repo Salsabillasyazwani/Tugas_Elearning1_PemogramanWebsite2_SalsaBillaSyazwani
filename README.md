@@ -53,9 +53,3 @@ Website ini memungkinkan pengguna untuk melihat menu snack, memesan produk, dan 
 - Navbar menampilkan hamburger menu pada ukuran kecil
 
 ---
-
-├─ .gitignore
-├─ composer.json
-├─ composer.lock
-├─ README.md
-└─ artisan
