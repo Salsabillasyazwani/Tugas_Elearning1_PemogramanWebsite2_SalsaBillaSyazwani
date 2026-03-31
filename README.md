@@ -54,36 +54,6 @@ Website ini memungkinkan pengguna untuk melihat menu snack, memesan produk, dan 
 
 ---
 
-## Struktur Project
-Tuga_Elearning1/
-├─ app/
-│  ├─ Http/
-│  │  ├─ Controllers/
-│  │  └─ Middleware/
-│  └─ Models/
-├─ bootstrap/
-├─ config/
-├─ database/
-│  ├─ migrations/
-│  └─ seeders/
-├─ public/
-│  ├─ assets/
-│  │  ├─ css/
-│  │  ├─ js/
-│  │  └─ images/
-│  └─ index.php
-├─ resources/
-│  ├─ views/
-│  │  ├─ layout/
-│  │  ├─ partials/
-│  │  └─ landing.blade.php
-│  └─ lang/
-├─ routes/
-│  └─ web.php
-├─ storage/
-├─ tests/
-├─ vendor/
-├─ .env
 ├─ .gitignore
 ├─ composer.json
 ├─ composer.lock
